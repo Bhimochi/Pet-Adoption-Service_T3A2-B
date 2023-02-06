@@ -1,5 +1,3 @@
-# **Pet-Adoption-Service_T3A2-B**
-
 ## **Table of Contents:** <!-- omit in toc -->
 - [**Pet-Adoption-Service\_T3A2-B**](#pet-adoption-service_t3a2-b)
   - [\*\*R10 - Website Application](#r10---website-application)

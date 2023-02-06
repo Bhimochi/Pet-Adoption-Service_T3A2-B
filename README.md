@@ -25,7 +25,7 @@ Back-End: https://github.com/Pet-Adoption-Service/Pet-Adopt-API
 
 
 
-## **R12 - Part A Documentation
+## R12 - Part A Documentation
 https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_T3A2-A
 
 ## **R13 - Screenshots of your Trello board throughout the duration of the project**

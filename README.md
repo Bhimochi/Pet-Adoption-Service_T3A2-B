@@ -32,23 +32,23 @@ https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_T3A2-A
 The link to our Trello board is available [Here](https://trello.com/b/XB2z1h7g
 )!
 
-![screenshot1](docs/images/Screenshot1.png)
-![screenshot2](docs/images/Screenshot2.png)
-![screenshot3](docs/images/Screenshot3.png)
-![screenshot4](docs/images/Screenshot4.png)
-![screenshot5a](docs/images/Screenshot5a.png)
-![screenshot5b](docs/images/Screenshot5b.png)
-![screenshot6a](docs/images/Screenshot6a.png)
-![screenshot6b](docs/images/Screenshot6b.png)
-![TrelloBoard7](docs/images/TrelloBoard7.png)
+![screenshot1](docs/Screenshot1.png)
+![screenshot2](docs/Screenshot2.png)
+![screenshot3](docs/Screenshot3.png)
+![screenshot4](docs/Screenshot4.png)
+![screenshot5a](docs/Screenshot5a.png)
+![screenshot5b](docs/Screenshot5b.png)
+![screenshot6a](docs/Screenshot6a.png)
+![screenshot6b](docs/Screenshot6b.png)
+![TrelloBoard7](docs/TrelloBoard7.png)
 
 ## Testing
-## **Front-End 
+## Front-End 
 When going to an unknown domain
-![ErrorTest1](docs/images/errortest.png)
+![ErrorTest1](docs/errortest.png)
 
 ---
 
 ## Testing
-## **Back-End 
-![screentest](docs/images/screentest.png)
+## Back-End 
+![screentest](docs/screentest.png)

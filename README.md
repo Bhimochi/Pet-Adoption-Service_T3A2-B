@@ -12,10 +12,10 @@
 
 ---
 
-## **R10 - Website Application
+## R10 - Website Application
 
 
-## **R11 - Github Repository
+## R11 - Github Repository
 Final: https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_T3A2-B
 
 Front-End: https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_FrontEnd

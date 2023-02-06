@@ -6,9 +6,9 @@
   - [R12 - Part A Documentation](#r12---part-a-documentation)
   - [**R13 - Screenshots of your Trello board throughout the duration of the project**](#r13---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
   - [Testing](#testing)
-  - [\*\*Front-End](#front-end)
+  - [Front-End](#front-end)
   - [Testing](#testing-1)
-  - [\*\*Back-End](#back-end)
+  - [Back-End](#back-end)
 
 ---
 

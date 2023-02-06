@@ -21,7 +21,7 @@ Final: https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_T3A2-B
 
 Front-End: https://github.com/Pet-Adoption-Service/Pet-Adoption-Service_FrontEnd
 
-Back-End: https://github.com/Pet-Adoption-Service/Pet-Adopt-API
+Back-End: https://github.com/Pet-Adoption-Service/Pet-Adoption-Service-BackEnd
 
 
 

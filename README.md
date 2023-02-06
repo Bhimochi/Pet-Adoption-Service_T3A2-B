@@ -1,9 +1,9 @@
 ## Pet-Adoption-Service_T3A2-B
 
 ## **Table of Contents:** <!-- omit in toc -->
-  - [\*\*R10 - Website Application](#r10---website-application)
-  - [\*\*R11 - Github Repository](#r11---github-repository)
-  - [\*\*R12 - Part A Documentation](#r12---part-a-documentation)
+  - [R10 - Website Application](#r10---website-application)
+  - [R11 - Github Repository](#r11---github-repository)
+  - [R12 - Part A Documentation](#r12---part-a-documentation)
   - [**R13 - Screenshots of your Trello board throughout the duration of the project**](#r13---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
   - [Testing](#testing)
   - [\*\*Front-End](#front-end)
